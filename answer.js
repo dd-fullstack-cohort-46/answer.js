@@ -5,7 +5,6 @@
 @param {number} number2 the second number to be subtracted
 @return {number} the result of subtracting number1 from number2
  */
-
 function subtractTwoNumbers (number1, number2) {
     let result = number1 - number2
     return result
